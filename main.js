@@ -1,6 +1,3 @@
-//переменная для работы с функциями будет принимать функцию createList
-let list = ""
-
 // Функция, возвращающая новую btn
 function createBtn(text, className) {
   let btn = document.createElement('button')
